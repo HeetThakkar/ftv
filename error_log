@@ -1,0 +1,96 @@
+[25-May-2022 15:18:49 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-May-2022 15:18:49 UTC] PHP Notice:  Undefined index: name in /home/brand/public_html/projects/ftv/name-validation.php on line 7
+[25-May-2022 15:53:06 UTC] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 35 in /home/brand/public_html/projects/ftv/password-validation.php on line 19
+[25-May-2022 16:15:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/brand/public_html/projects/ftv/phone-validation.php on line 38
+[25-May-2022 16:15:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/brand/public_html/projects/ftv/phone-validation.php on line 38
+[25-May-2022 16:18:59 UTC] PHP Warning:  preg_match(): No ending delimiter '+' found in /home/brand/public_html/projects/ftv/phone-validation.php on line 19
+[25-May-2022 16:18:59 UTC] PHP Warning:  preg_match(): No ending delimiter '+' found in /home/brand/public_html/projects/ftv/phone-validation.php on line 19
+[25-May-2022 16:19:01 UTC] PHP Warning:  preg_match(): No ending delimiter '+' found in /home/brand/public_html/projects/ftv/phone-validation.php on line 19
+[25-May-2022 16:19:34 UTC] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/brand/public_html/projects/ftv/phone-validation.php on line 19
+[25-May-2022 16:19:42 UTC] PHP Warning:  preg_match(): Compilation failed: nothing to repeat at offset 0 in /home/brand/public_html/projects/ftv/phone-validation.php on line 19
+[25-May-2022 16:59:14 UTC] PHP Notice:  Undefined variable: pattern in /home/brand/public_html/projects/ftv/registration-validation.php on line 58
+[25-May-2022 16:59:14 UTC] PHP Warning:  preg_match(): Empty regular expression in /home/brand/public_html/projects/ftv/registration-validation.php on line 58
+[25-May-2022 17:01:13 UTC] PHP Notice:  Undefined variable: name in /home/brand/public_html/projects/ftv/registration-validation.php on line 71
+[25-May-2022 17:01:13 UTC] PHP Notice:  Undefined variable: username in /home/brand/public_html/projects/ftv/registration-validation.php on line 71
+[25-May-2022 17:11:54 UTC] PHP Notice:  Undefined variable: cn in /home/brand/public_html/projects/ftv/registration-validation.php on line 63
+[25-May-2022 17:11:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/brand/public_html/projects/ftv/registration-validation.php on line 63
+[25-May-2022 17:11:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/brand/public_html/projects/ftv/registration-validation.php on line 64
+[25-May-2022 17:13:12 UTC] PHP Notice:  Undefined variable: cn in /home/brand/public_html/projects/ftv/username-validation.php on line 16
+[25-May-2022 17:13:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/brand/public_html/projects/ftv/username-validation.php on line 16
+[25-May-2022 17:13:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/brand/public_html/projects/ftv/username-validation.php on line 17
+[25-May-2022 17:13:50 UTC] PHP Notice:  Undefined variable: cn in /home/brand/public_html/projects/ftv/username-validation.php on line 16
+[25-May-2022 17:13:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/brand/public_html/projects/ftv/username-validation.php on line 16
+[25-May-2022 17:13:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/brand/public_html/projects/ftv/username-validation.php on line 17
+[25-May-2022 17:13:54 UTC] PHP Notice:  Undefined variable: cn in /home/brand/public_html/projects/ftv/username-validation.php on line 16
+[25-May-2022 17:13:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/brand/public_html/projects/ftv/username-validation.php on line 16
+[25-May-2022 17:13:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/brand/public_html/projects/ftv/username-validation.php on line 17
+[25-May-2022 17:39:22 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:39:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:39:24 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:39:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:39:26 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:39:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:39:26 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:39:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:39:37 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:39:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:39:39 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:39:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:03 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:03 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:04 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:06 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:07 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/phone-validation.php on line 17
+[25-May-2022 17:40:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/brand/public_html/projects/ftv/phone-validation.php on line 33
+[25-May-2022 17:40:07 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/email-validation.php on line 15
+[25-May-2022 17:40:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/email-validation.php on line 15
+[25-May-2022 17:40:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/brand/public_html/projects/ftv/email-validation.php on line 19
+[25-May-2022 17:40:07 UTC] PHP Notice:  Undefined variable: sql in /home/brand/public_html/projects/ftv/email-validation.php on line 15
+[25-May-2022 17:40:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/brand/public_html/projects/ftv/email-validation.php on line 15
+[25-May-2022 17:40:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/brand/public_html/projects/ftv/email-validation.php on line 19
+[25-May-2022 17:44:48 UTC] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?latlng=,&amp;sensor=false): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/brand/public_html/projects/ftv/location.php on line 4
+[25-May-2022 18:31:45 UTC] PHP Notice:  Undefined variable: username in /home/brand/public_html/projects/ftv/login.php on line 22
+[25-May-2022 18:38:55 UTC] PHP Notice:  Undefined variable: output in /home/brand/public_html/projects/ftv/login.php on line 30
+[25-May-2022 18:47:40 UTC] PHP Notice:  Undefined index: id in /home/brand/public_html/projects/ftv/login.php on line 41
+[25-May-2022 18:53:05 UTC] PHP Warning:  file_get_contents(http://ipinfo.io//json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/brand/public_html/projects/ftv/index.php on line 97
+[25-May-2022 18:53:44 UTC] PHP Warning:  file_get_contents(http://ipinfo.io//json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/brand/public_html/projects/ftv/index.php on line 97
+[25-May-2022 18:53:54 UTC] PHP Warning:  file_get_contents(http://ipinfo.io//json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/brand/public_html/projects/ftv/index.php on line 98
+[25-May-2022 18:54:13 UTC] PHP Warning:  file_get_contents(http://ipinfo.io//json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/brand/public_html/projects/ftv/index.php on line 98
+[25-May-2022 18:54:16 UTC] PHP Warning:  file_get_contents(http://ipinfo.io//json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/brand/public_html/projects/ftv/index.php on line 98
+[25-May-2022 18:54:21 UTC] PHP Warning:  file_get_contents(http://ipinfo.io//json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/brand/public_html/projects/ftv/index.php on line 98
+[25-May-2022 18:54:23 UTC] PHP Warning:  file_get_contents(http://ipinfo.io//json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/brand/public_html/projects/ftv/index.php on line 98
+[25-May-2022 19:04:07 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-May-2022 19:04:48 UTC] PHP Notice:  Undefined index: id in /home/brand/public_html/projects/ftv/login.php on line 41
+[25-May-2022 19:06:15 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-May-2022 19:07:13 UTC] PHP Notice:  Undefined index: id in /home/brand/public_html/projects/ftv/login.php on line 41
+[25-May-2022 19:11:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-May-2022 19:16:27 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-May-2022 19:19:11 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-May-2022 19:22:58 UTC] PHP Notice:  Undefined index: remember in /home/brand/public_html/projects/ftv/login.php on line 32
+[25-May-2022 19:25:03 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-May-2022 19:25:42 UTC] PHP Notice:  Undefined index: remember in /home/brand/public_html/projects/ftv/login.php on line 32
+[25-May-2022 19:26:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-May-2022 19:33:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-May-2022 19:34:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[25-May-2022 19:41:15 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
