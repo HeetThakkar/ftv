@@ -17,6 +17,10 @@ If user selects remember me then the id is stored in the cookie with is valid fo
 If the remember me radio is not selected the id is saved in the session which is only valid for the current.
 After user clicks on logout the data in session and cookie is cleared and is navigated to the index page
 
+Home page:
+As per the id saved in the session or cookie the data is fetched from the database and displayed in the box. I have saved only id in the cookie and session as the data of user is confidential and is not prefered to store such data in the browsers data.
+The location is tracted using the 3rd party API for tracking the location for ip.
+
 Live Link
 https://brandniti.com/projects/ftv/
 
